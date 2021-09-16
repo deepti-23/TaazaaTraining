@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.exe
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.deps.json
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.runtimeconfig.json
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.dll
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\ref\AdvDelegate.dll
+C:\Users\deept\Taazaa\AdvDelegate\bin\Debug\net5.0\AdvDelegate.pdb
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.AssemblyInfo.cs
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.dll
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\ref\AdvDelegate.dll
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.pdb
+C:\Users\deept\Taazaa\AdvDelegate\obj\Debug\net5.0\AdvDelegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.exe
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.deps.json
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.runtimeconfig.json
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.dll
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\ref\advgenerics.dll
+C:\Users\deept\Taazaa\advgenerics\bin\Debug\net5.0\advgenerics.pdb
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.AssemblyInfo.cs
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.dll
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\ref\advgenerics.dll
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.pdb
+C:\Users\deept\Taazaa\advgenerics\obj\Debug\net5.0\advgenerics.genruntimeconfig.cache

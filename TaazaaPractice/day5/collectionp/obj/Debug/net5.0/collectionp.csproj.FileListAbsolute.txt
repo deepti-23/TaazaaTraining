@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.exe
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.deps.json
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.runtimeconfig.json
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.dll
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\ref\collectionp.dll
+C:\Users\deept\Taazaa\day5\collectionp\bin\Debug\net5.0\collectionp.pdb
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.AssemblyInfo.cs
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.dll
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\ref\collectionp.dll
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.pdb
+C:\Users\deept\Taazaa\day5\collectionp\obj\Debug\net5.0\collectionp.genruntimeconfig.cache

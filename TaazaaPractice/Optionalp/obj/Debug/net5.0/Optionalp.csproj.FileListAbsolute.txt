@@ -1,0 +1,16 @@
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.exe
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.deps.json
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.runtimeconfig.json
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.runtimeconfig.dev.json
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.dll
+D:\Taazaa\Optionalp\bin\Debug\net5.0\ref\Optionalp.dll
+D:\Taazaa\Optionalp\bin\Debug\net5.0\Optionalp.pdb
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.csproj.AssemblyReference.cache
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.AssemblyInfoInputs.cache
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.AssemblyInfo.cs
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.csproj.CoreCompileInputs.cache
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.dll
+D:\Taazaa\Optionalp\obj\Debug\net5.0\ref\Optionalp.dll
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.pdb
+D:\Taazaa\Optionalp\obj\Debug\net5.0\Optionalp.genruntimeconfig.cache

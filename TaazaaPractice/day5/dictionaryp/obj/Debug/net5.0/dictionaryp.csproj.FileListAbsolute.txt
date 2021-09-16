@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.exe
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.deps.json
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.runtimeconfig.json
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.dll
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\ref\dictionaryp.dll
+C:\Users\deept\Taazaa\day5\dictionaryp\bin\Debug\net5.0\dictionaryp.pdb
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.AssemblyInfo.cs
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.dll
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\ref\dictionaryp.dll
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.pdb
+C:\Users\deept\Taazaa\day5\dictionaryp\obj\Debug\net5.0\dictionaryp.genruntimeconfig.cache

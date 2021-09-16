@@ -1,0 +1,16 @@
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.exe
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.deps.json
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.runtimeconfig.json
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.runtimeconfig.dev.json
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.dll
+D:\Taazaa\Array\array2\bin\Debug\net5.0\ref\Array2.dll
+D:\Taazaa\Array\array2\bin\Debug\net5.0\Array2.pdb
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.csproj.AssemblyReference.cache
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.AssemblyInfoInputs.cache
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.AssemblyInfo.cs
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.csproj.CoreCompileInputs.cache
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.dll
+D:\Taazaa\Array\array2\obj\Debug\net5.0\ref\Array2.dll
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.pdb
+D:\Taazaa\Array\array2\obj\Debug\net5.0\Array2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.exe
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.deps.json
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.runtimeconfig.json
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.runtimeconfig.dev.json
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.dll
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\ref\cconstrutor.dll
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\bin\Debug\net5.0\cconstrutor.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.csproj.AssemblyReference.cache
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.AssemblyInfoInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.AssemblyInfo.cs
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.csproj.CoreCompileInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.dll
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\ref\cconstrutor.dll
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\copyconstructor\cconstrutor\obj\Debug\net5.0\cconstrutor.genruntimeconfig.cache

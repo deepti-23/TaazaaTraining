@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.exe
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.deps.json
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.runtimeconfig.json
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.dll
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\ref\hashtablep.dll
+C:\Users\deept\Taazaa\day5\hashtablep\bin\Debug\net5.0\hashtablep.pdb
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.AssemblyInfo.cs
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.dll
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\ref\hashtablep.dll
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.pdb
+C:\Users\deept\Taazaa\day5\hashtablep\obj\Debug\net5.0\hashtablep.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.exe
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.deps.json
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.runtimeconfig.json
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.runtimeconfig.dev.json
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.dll
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\ref\EHandling.dll
+D:\Taazaa\ExceptionHandling\EHandling\bin\Debug\net5.0\EHandling.pdb
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.csproj.AssemblyReference.cache
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.AssemblyInfoInputs.cache
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.AssemblyInfo.cs
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.csproj.CoreCompileInputs.cache
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.dll
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\ref\EHandling.dll
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.pdb
+D:\Taazaa\ExceptionHandling\EHandling\obj\Debug\net5.0\EHandling.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.exe
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.deps.json
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.runtimeconfig.json
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.dll
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\ref\selfanalyze.dll
+C:\Users\deept\Taazaa\selfanalyze\bin\Debug\net5.0\selfanalyze.pdb
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.AssemblyInfo.cs
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.dll
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\ref\selfanalyze.dll
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.pdb
+C:\Users\deept\Taazaa\selfanalyze\obj\Debug\net5.0\selfanalyze.genruntimeconfig.cache

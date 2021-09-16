@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.exe
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.deps.json
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.runtimeconfig.json
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.dll
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\ref\privateconstructorp.dll
+C:\Users\deept\Taazaa\day5\privateconstructorp\bin\Debug\net5.0\privateconstructorp.pdb
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.AssemblyInfo.cs
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.dll
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\ref\privateconstructorp.dll
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.pdb
+C:\Users\deept\Taazaa\day5\privateconstructorp\obj\Debug\net5.0\privateconstructorp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.exe
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.deps.json
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.runtimeconfig.json
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.runtimeconfig.dev.json
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.dll
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\ref\Indexerp.dll
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\bin\Debug\net5.0\Indexerp.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.csproj.AssemblyReference.cache
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.AssemblyInfoInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.AssemblyInfo.cs
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.csproj.CoreCompileInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.dll
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\ref\Indexerp.dll
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\day12\Indexerp\obj\Debug\net5.0\Indexerp.genruntimeconfig.cache

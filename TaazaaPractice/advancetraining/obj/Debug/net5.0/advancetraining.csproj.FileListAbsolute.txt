@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.exe
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.deps.json
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.runtimeconfig.json
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.dll
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\ref\advancetraining.dll
+C:\Users\deept\Taazaa\AdvanceTraining\bin\Debug\net5.0\advancetraining.pdb
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.AssemblyInfo.cs
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.dll
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\ref\advancetraining.dll
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.pdb
+C:\Users\deept\Taazaa\AdvanceTraining\obj\Debug\net5.0\advancetraining.genruntimeconfig.cache

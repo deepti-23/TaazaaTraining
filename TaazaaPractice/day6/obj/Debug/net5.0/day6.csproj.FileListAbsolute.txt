@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.exe
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.deps.json
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.runtimeconfig.json
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.dll
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\ref\day6.dll
+C:\Users\deept\Taazaa\day6\bin\Debug\net5.0\day6.pdb
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.AssemblyInfo.cs
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.dll
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\ref\day6.dll
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.pdb
+C:\Users\deept\Taazaa\day6\obj\Debug\net5.0\day6.genruntimeconfig.cache

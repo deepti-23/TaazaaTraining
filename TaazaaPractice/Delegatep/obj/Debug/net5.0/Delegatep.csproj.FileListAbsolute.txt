@@ -1,0 +1,16 @@
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.exe
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.deps.json
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.runtimeconfig.json
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.runtimeconfig.dev.json
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.dll
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\ref\Delegatep.dll
+C:\Users\deept\Taazaa\Delegatep\bin\Debug\net5.0\Delegatep.pdb
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.csproj.AssemblyReference.cache
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.AssemblyInfoInputs.cache
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.AssemblyInfo.cs
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.csproj.CoreCompileInputs.cache
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.dll
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\ref\Delegatep.dll
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.pdb
+C:\Users\deept\Taazaa\Delegatep\obj\Debug\net5.0\Delegatep.genruntimeconfig.cache
